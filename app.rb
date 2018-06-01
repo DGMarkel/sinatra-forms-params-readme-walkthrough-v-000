@@ -13,6 +13,5 @@ class App < Sinatra::Base
 
   get '/food' do
   end
-  end
 
 end
